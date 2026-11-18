@@ -7,3 +7,7 @@ This repository contains fictional data for GitHub import, reconnection, and syn
 - The Polaris team decided to publish the weekly stock report every Tuesday at 09:00 Stockholm time.
 - The staging goal is to import 12 sample products by 15 December 2026.
 - The Indigo catalogue is the source of truth for demo product names and stock counts.
+
+## Sync test update
+
+Polaris uses Juniper Dock 28 as the receiving station for all sample product returns.
